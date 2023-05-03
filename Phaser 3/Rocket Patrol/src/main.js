@@ -1,3 +1,9 @@
+// Zehao Dong
+//
+//
+//
+//
+
 let config = {
     type: Phaser.CANVAS,
     width: 640,
